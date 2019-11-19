@@ -7,7 +7,7 @@ const App = props => {
         <h1>Hello React Training!</h1>
         <p>
           Dear sir or madam, you must be <strong>suckling</strong> on a{" "}
-          <em>duckling!</em>
+          <em>duckling! Hello hello!</em>
         </p>
       </div>
     </>
